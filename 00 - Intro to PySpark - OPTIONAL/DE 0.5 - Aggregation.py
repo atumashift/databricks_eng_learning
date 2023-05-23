@@ -147,6 +147,7 @@ state_aggregates_df = (df
 
 display(state_aggregates_df)
 
+
 # COMMAND ----------
 
 # MAGIC %md ### Math Functions
